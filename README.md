@@ -7,23 +7,24 @@ In this .Net 7 tutorial, we have implemented CRUD operations in asp.net core web
 _____________________
 _____________________
 
- - - [ ] Create Asp.Net Core API
- - - [ ] DEFINE EF Model & DB Context Class
- - - [ ] DB Migration
- - - [ ] Create Controller
-- - [ ] HOW DI Works in ASP.NET Core
-- - [ ] Things You Should Before Moving to Angular App
- - - [ ] Case Conversion
-- - [ ] Create Angular App
- - - [ ] APP Structure
- - - [ ] Let's start designing the App
- - - [ ] Retrive Existing List of Records.
- - - [ ] Retrieve and Display Existing Records in Angular App.
- - - [ ] Configure/Enable CORS Policy
- - - [ ] Render an Array of Objects in Angular
- - - [ ] Design an Angular Form
- - - [ ] Submit the Form
- - - [ ] Reset Form
-- - [ ] Toast Notification
- - - [ ] Angular Form Validation
- - - [ ] Update & Delete Operation
+ 
+ - [x] Create Asp.Net Core API
+ - [x] DEFINE EF Model & DB Context Class
+- [x] DB Migration
+- [x] Create Controller
+- [x] HOW DI Works in ASP.NET Core
+- [x] Things You Should Before Moving to Angular App
+ - [x] Case Conversion
+- [x] Create Angular App
+ - [x] APP Structure
+ - [x] Let's start designing the App
+- [x] Retrive Existing List of Records.
+ - [x] Retrieve and Display Existing Records in Angular App.
+ - [x] Configure/Enable CORS Policy
+ - [x] Render an Array of Objects in Angular
+ - [x] Design an Angular Form
+ - [x] Submit the Form
+ - [x] Reset Form
+ - [x] Toast Notification
+ - [x] Angular Form Validation
+ - [x] Update & Delete Operation
